@@ -1,7 +1,6 @@
-# Meena_Periasamy
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7CE3E&size=30&center=true&vCenter=true&width=700&lines=Hi+There+👋+I'm+Meena+Periasamy;Data+Analyst+%7C+ML+Engineer+%7C+MLOps+Practitioner;I+turn+data+into+stories+and+impact.">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=700&lines=Hi+There+👋+I'm+Meena+Periasamy;Data+Engineer;Data+Analyst;ML+Engineer;I+turn+data+into+stories+and+impact.">
 </p>
 
 ---
@@ -22,7 +21,7 @@ impacting **health, finance, sustainability, and global human experiences.**
 | 🖥️ **Programming Languages** | Python, R, JavaScript, HTML |
 | 📊 **Data Visualization** | Tableau, Power BI |
 | 🗄️ **Databases & Big Data Tools** | MySQL, MongoDB, Hadoop, Apache Spark, Kafka, Airflow |
-| ☁️ **Cloud Technologies** | AWS, GCP, Azure |
+| ☁️ **Cloud Technologies** | AWS, Google Cloud Platform, Azure |
 | ⚙️ **MLOps Tools** | MLflow, Kubeflow, Kubernetes |
 
 ---
@@ -30,7 +29,7 @@ impacting **health, finance, sustainability, and global human experiences.**
 ## 💻 Tech Stack  
 
 <p align="left">
-  <!-- Badges Row 1 -->
+  <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -49,7 +48,7 @@ impacting **health, finance, sustainability, and global human experiences.**
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Hadoop-FF9A00?style=for-the-badge&logo=apachehadoop&logoColor=white">
 
-  <!-- ML + Python Libs -->
+  <!-- ML Libraries -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -65,29 +64,6 @@ impacting **health, finance, sustainability, and global human experiences.**
 
 ---
 
-# 🎯 Featured Projects (Interactive Project Cards)
-
-### 🚇 **MBTA Charlie – Conversational Transit Assistant**
-A real-time transit intelligence system integrating Airflow pipelines, ML models, and chatbot interfaces.
-
-[![Charlie Project](https://github-readme-stats.vercel.app/api/pin/?username=meenuviji&repo=Charlie&theme=react&hide_border=true)](https://github.com/meenuviji/Charlie)
-
----
-
-### 💊 **OptiMed Pharma – SQL + NoSQL Healthcare System**
-Hybrid database platform for clinical and pharmacy analytics.
-
-[![OptiMed](https://github-readme-stats.vercel.app/api/pin/?username=meenuviji&repo=OptiMed-Pharma&theme=react&hide_border=true)](#)
-
----
-
-### 🔥 **U.S. Crime Data Analytics & Forecasting**
-Multi-year statistical analysis + ARIMA forecasting + Power BI dashboards.
-
-[![Crime Analytics](https://github-readme-stats.vercel.app/api/pin/?username=meenuviji&repo=US-Crime-Analytics&theme=react&hide_border=true)](#)
-
----
-
 ## 🌐 My Online Presence  
 
 🔗 **LinkedIn** → Your Link  
@@ -100,4 +76,4 @@ Multi-year statistical analysis + ARIMA forecasting + Power BI dashboards.
 ## 🎉 Bonus
 
 Thanks for visiting — feel free to explore my repositories! 😉🚀  
-Who knows, you might find something cool… or at least pretend you did 😆  
+Maybe you'll find something cool… or at least pretend you did 😆  
