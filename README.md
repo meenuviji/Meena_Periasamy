@@ -9,8 +9,7 @@
 
 📊 *"Numbers have an important story to tell. They rely on you to give them a voice." – Stephen Few*
 
-I love everything about **data storytelling**, from the patterns it reveals to the decisions it drives —  
-impacting **health, finance, sustainability, and global human experiences.**
+I love everything about **data storytelling**, from the patterns it reveals to the decisions it drives impacting **health, finance, sustainability, and global human experiences.**
 
 ---
 
