@@ -66,10 +66,9 @@ I love everything about **data storytelling**, from the patterns it reveals to t
 
 ## 🌐 My Online Presence  
 
-🔗 **LinkedIn** → Your Link  
-📖 **Google Scholar** → Your Link  
-✉️ **Email** → Your Link  
-🌍 **Portfolio** → Your Link  
+🔗 **LinkedIn** → https://www.linkedin.com/in/meenuviji/  
+📖 **Google Scholar** → https://scholar.google.com/citations?user=6zcRwPwAAAAJ&hl=en  
+✉️ **Email** → periasamy.m@northeastern.edu  
 
 ---
 
